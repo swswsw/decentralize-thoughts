@@ -1,6 +1,6 @@
 # Decentralized Options
 
-## Decentralized and Trustless Options
+## Decentralized and Trustless Options (Covered Options)
 
 ### Call Option
 
@@ -35,3 +35,8 @@ then
 
 We may want to add an owner field to the contract such that only owner of the contract can exercise.  
 That way, the contract can be sold to other people like the usual financial contract.  
+
+### Advantages
+
+No custodial central party
+No need for price oracle
