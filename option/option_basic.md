@@ -1,14 +1,22 @@
-Option Basics
+# Option Basics
 
-Call Option
+In this post, we will talk about some of the basics of options.
 
-Put Option
+## Call and Put Option
 
-Amercian Option
+### Call Option
 
-European Option
+### Put Option
 
-Covered Option
+## Amercian and European Option
 
-Uncovered Option
+### Amercian Option
+
+### European Option
+
+## Covered and Uncovered Option
+
+### Covered Option
+
+### Uncovered Option
 
